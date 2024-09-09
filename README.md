@@ -135,6 +135,4 @@ An architecture diagram was created to visualize the components and their intera
 6. Docker Documentation. Best Practices for Writing Dockerfiles. [https://docs.docker.com/develop/develop-images/dockerfile_best-practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices)
 7. Kubernetes Documentation. [https://kubernetes.io/docs](https://kubernetes.io/docs)
 
----
 
-Feel free to adjust any section as needed for accuracy or personal touch!
