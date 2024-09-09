@@ -32,8 +32,8 @@ Before starting, ensure you have the following installed and configured:
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SEC6000-SecureDevOps.git
-   cd SEC6000-SecureDevOps
+   git clone https://github.com/YOUR_USERNAME/ISEC6000-SecureDevOps.git
+   cd ISEC6000-SecureDevOps
    ```
 
 2. Set Up the Kubernetes Cluster
@@ -68,7 +68,7 @@ In this task, the goal was to establish the foundational infrastructure required
    - Installed and authenticated `kubectl` to manage the Kubernetes cluster from the local machine.
 
 3. GitHub Repository Setup
-   - Created a repository named `SEC6000-SecureDevOps`.
+   - Created a repository named `ISEC6000-SecureDevOps`.
    - Initialized with a README file and set the repository visibility to Public.
 
  Task 2: Microservices Architecture and Deployment
