@@ -1,7 +1,5 @@
 # ISEC6000-SecureDevOps
 Secure DevOps Project for ISEC6000 21749180
-# ISEC6000 Secure DevOps
-
 ## Project Overview
 This repository contains the setup and configuration for deploying a secure and scalable e-commerce application using Saleor, Kubernetes, and Docker.
 
