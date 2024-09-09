@@ -23,7 +23,7 @@ Welcome to the ISEC6000 Secure DevOps project repository! This project focuses o
 Before starting, ensure you have the following installed and configured:
 - Google Cloud SDK: For managing Google Cloud resources.
 - kubectl: Command-line tool for interacting with Kubernetes clusters.
-- Docker: To manage and deploy containerized applications.
+- Docker: To manage and deploy containerized applications. ( You can download Docker for windows )
 - Git: For version control.
 - Trivvy: for vulnerability scanning
   Additional tools like chocolatey to install trivvy for windows
@@ -93,6 +93,7 @@ This task involved deploying the Saleor platform within a Kubernetes environment
 
 
  Task 3: Implementing Security Measures
+ 
 
  Overview
 
