@@ -71,10 +71,6 @@ In this task, the goal was to establish the foundational infrastructure required
    - Created a repository named `SEC6000-SecureDevOps`.
    - Initialized with a README file and set the repository visibility to Public.
 
- Screenshots
-
-Refer to the included screenshots for detailed views of the setup process.
-
  Task 2: Microservices Architecture and Deployment
 
  Overview
@@ -94,9 +90,6 @@ This task involved deploying the Saleor platform within a Kubernetes environment
 3. Version Control
    - Committed the configuration changes to the forked repository and tagged the commit as `isec6000-assignment1`.
 
- Screenshots
-
-Screenshots of Docker Compose files and deployment status are included for reference.
 
  Task 3: Implementing Security Measures
 
@@ -112,10 +105,6 @@ This task focused on securing Docker containers and scanning for vulnerabilities
 2. Vulnerability Scanning
    - Utilized Trivy to scan for vulnerabilities in container images.
    - Addressed identified issues by updating affected libraries.
-
- Screenshots
-
-Included are screenshots of the Trivy vulnerability reports and the actions taken to resolve issues.
 
  Task 4: Architecture Visualization
 
@@ -134,9 +123,6 @@ An architecture diagram was created to visualize the components and their intera
 2. Annotations
    - Labeled service interactions and highlighted security aspects such as firewall rules.
 
- Diagram Link
-
-[View Architecture Diagram]()
 
  References
 
